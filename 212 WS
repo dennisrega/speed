@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="NASIONAL", Indosiar (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://bit.ly/3MeFJVc
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="", indosiar  
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg", indosiar  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="NASIONAL", SCTV (D*)
@@ -14,7 +14,7 @@ https://bit.ly/3Sc6EFk
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL", MNC TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683098&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO TELE.jpg" group-title="NASIONAL", MNC TV S2
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL", MNC TV S2
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=153789_&extension=ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL", GTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683121&extension=ts&play_token=GVZS088tcf
@@ -33,7 +33,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&ex
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683116&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO TELE.jpg" group-title="NASIONAL", TRANS 7 S2
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/08/08/873008581.jpg" group-title="NASIONAL", TRANS 7 S2
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=153793_&extension=ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="NASIONAL", TRANS TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
