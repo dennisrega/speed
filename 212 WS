@@ -136,17 +136,6 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683106&ex
 ====================================MOVIES===================================
 =============================================================================
 
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://mncvision.tv/userfiles/image/channel/hbo_signature.png",HBO Signature* 
-http://208.115.225.174:14160
-#EXTINF:-1  group-title="MOVIES" tvg-logo="https://w7.pngwing.com/pngs/914/277/png-transparent-hbo-television-channel-logo-television-show-design-television-text-logo.png",HBO*
-http://208.115.225.174:14136
-#EXTINF:-1  group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1024px-HBO_Xtreme.svg.png",HBO Extreme*
-http://208.115.225.174:14165
-#EXTINF:0  group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO2*
-http://208.115.225.174:14140
-#EXTINF:-1  group-title="MOVIES" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png",HBO Mundi*
-http://208.115.225.174:14148
 #EXTINF:-1 tvg-logo="https://vcdn1-sohoa.vnecdn.net/2011/09/07/1000532015_Logo_OneTV_Final.jpg?w=500&h=300&q=100&dpr=1&fit=crop&s=rJPgaXNWglOsxn-KNJP2ng" group-title="MOVIES", ONE
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683130&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1619076486_528_small.jpg" group-title="MOVIES", KIX
@@ -205,6 +194,16 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683129&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683125&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png" group-title="MOVIES", FMN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683143&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://mncvision.tv/userfiles/image/channel/hbo_signature.png",HBO Signature* 
+http://208.115.225.174:14160
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://w7.pngwing.com/pngs/914/277/png-transparent-hbo-television-channel-logo-television-show-design-television-text-logo.png",HBO*
+http://208.115.225.174:14136
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1024px-HBO_Xtreme.svg.png",HBO Extreme*
+http://208.115.225.174:14165
+#EXTINF:0  group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO2*
+http://208.115.225.174:14140
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png",HBO Mundi*
+http://208.115.225.174:14148
 
 ===============================ANAK-ANAK==================================
 ==========================================================================
@@ -231,15 +230,15 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683085&ex
 ======================================SPORT==================================
 =============================================================================
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="SPORT", SpoTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/2560px-SPOTV_logo.svg.png" group-title="SPORT", SpoTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683117&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="SPORT", SPORTSTAR
+#EXTINF:-1 tvg-logo="https://dcassetcdn.com/design_img/26967/22802/22802_576860_26967_image.jpg" group-title="SPORT", SPORTSTAR
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683133&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORT", BEIN SPORT
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683139&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORT", BEIN SPORT 2
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683138&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="SPORT", Fight Sport
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/440-4405466_fight-sports-logo-hd-png-download.png" group-title="SPORT", Fight Sport
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683135&extension=ts&play_token=GVZS088tcf
 
 ====================================PENGETAHUAN/ALAM===========================
