@@ -63,13 +63,13 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/palu/foto/bank/images/kompastv-karer.jpg" group-title="NASIONAL", KOMPAS TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683194&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png" group-title="NASIONAL", CNN Indonesia
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/1554015969logobaru.png" group-title="NASIONAL", TVRI
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683195&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.sobatku.co.id/wp-content/uploads/2019/03/BeritaSatu-1.png" group-title="NASIONAL", Berita Satu
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683182&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/f/f4/MNC_News_%282020%29.png/revision/latest?cb=20201115080259" group-title="NASIONAL", MNC News
+#EXTINF:-1 tvg-logo="https://www.intothelightid.org/wp-content/uploads/2019/11/Logo-sindonews.jpg" group-title="NASIONAL", SINDO NEWStv
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683193&extension=ts&play_token=GVZS088tcf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="NASIONAL", MOJI (D*)
