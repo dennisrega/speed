@@ -136,6 +136,108 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683106&ex
 ====================================MOVIES===================================
 =============================================================================
 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop.jpg" group-title="TV | Movies",BIOSKOP 1 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3915 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop.jpg" group-title="TV | Movies",BIOSKOP 2 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3916 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop.jpg" group-title="TV | Movies",BIOSKOP 3 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3917 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.jpg" group-title="TV | Movies",BIOSKOP INDONESIA HD
+http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/39
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/flik.jpg" group-title="TV | Movies",FLIK HD 
+http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/23 
+#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/44/Dunia_Sinema_Old.png" group-title="TV | Movies",DUNIA SINEMA TV 
+http://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg" group-title="TV | Movies",ZEE BIOSKOP 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8  
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hbo.jpg" group-title="TV | Movies",HBO HD 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hbo_sign.jpg" group-title="TV | Movies",HBO SIGN HD 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hbo_hits.jpg" group-title="TV | Movies",HBO HITS HD 
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/16 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hbo_family.jpg" group-title="TV | Movies",HBO FAMILY HD 
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/18 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 movies
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="TV | Movies", ID: HBO 
+#http://tvkuonline.my.id:25461/riyad/riyad/412 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="TV | Movies", ID: HBO Family 
+#http://tvkuonline.my.id:25461/riyad/riyad/415 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="TV | Movies", ID: HBO Hits 
+http://tvkuonline.my.id:25461/riyad/riyad/413 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="TV | Movies", ID: HBO Signature 
+http://tvkuonline.my.id:25461/riyad/riyad/414 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="TV | Movies", ID: Cinemax 
+http://tvkuonline.my.id:25461/riyad/riyad/424 
+#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/f0/Logo-Citra-Dangdut.png" group-title="TV | Movies",CITRA Dangdut 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG" group-title="TV | Movies",CITRA DRAMA 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG" group-title="TV | Movies",CITRA ENTERTAINMENT 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg" group-title="TV | Movies",CITRA Muslim 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg" group-title="TV | Movies",HITS 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg" group-title="TV | Movies",HITS MOVIES 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg" group-title="TV | Movies",AXN 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg" group-title="TV | Movies",ROCK ENTERTAINMENT 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h213/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg" group-title="TV | Movies",ROCK ACTION 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg" group-title="TV | Movies",KIX 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg" group-title="TV | Movies",GEM 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="TV | Movies",K+ 
+http://210.210.155.35/uq2663/h/h08/01.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg" group-title="TV | Movies",TVN 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg" group-title="TV | Movies",TVN MOVIES 
+http://210.210.155.37/dr9445/h/h21/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg" group-title="TV | Movies",TVN MOVIES 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="TV | Movies",CELESTIAL MOVIES 
+http://210.210.155.37/dr9445/h/h14/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg" group-title="TV | Movies",CCM 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8  
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="TV | Movies",THRILL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="TV | Movies",CINEMA WORLD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="TV | Movies",MY CINEMA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/109.jpg" group-title="TV | Movies",MY CINEMA ASIA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg" group-title="TV | Movies",CINEMA EUROPE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h208/01.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/114.jpg" group-title="TV | Movies",MY FAMILY CHANNEL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/800px-Paramount_Global.svg.png" group-title="TV | Movies",Paramount 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/51/Logo_TV5_Monde_-_2021.svg" group-title="TV | Movies",TV5 Monde 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/cinemax.jpg" group-title="TV | Movies",CINEMAX HD 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/5
 #EXTINF:-1 tvg-logo="https://vcdn1-sohoa.vnecdn.net/2011/09/07/1000532015_Logo_OneTV_Final.jpg?w=500&h=300&q=100&dpr=1&fit=crop&s=rJPgaXNWglOsxn-KNJP2ng" group-title="MOVIES", ONE
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683130&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1619076486_528_small.jpg" group-title="MOVIES", KIX
